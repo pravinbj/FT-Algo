@@ -1,9 +1,9 @@
 # Flattrade API Credentials
-API_KEY = "813e1a108e674f3fab0be1beca1dcbab"
-CLIENT_ID = "FT035856"
-PASSWORD = "Nokia@123"
-TWO_FA = "M75673N45K723MDC5GNR4J4Q2O6377NP"
-API_SECRET = "2023.172372dbffd440bcbea4feed80c54d0381362b59d39f5700"
+API_KEY = "XXXXXXXXXXXX"    # Enter your details
+CLIENT_ID = "FXXXXX" # Enter your Credentials
+PASSWORD = "NokiXXXX" # Enter your Credentials
+TWO_FA = "M75673N45K723MDC5GNR4J4Q2O6377NP" # Enter your Credentials
+API_SECRET = "2023.172372dbffd440bcbea4feed80c54d0381362b59d39f5700" # Enter your Credentials
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36",
@@ -79,4 +79,5 @@ LOG_FOLDER = "logs"
 LOT_SIZE_NIFTY = 75
 LOT_SIZE_BANKNIFTY = 25# In config.py, simply add:
 SL_PERCENT_BELOW_VWAP = 1  # Change to 0.5, 1, 1.5, 2, 3, or 4
+
 
