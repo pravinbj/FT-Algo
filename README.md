@@ -114,7 +114,7 @@ pip install -r requirements.txt
 
 
 ## Required Packages
-
+# NorenRestApiPy==0.0.20 this is require to be install in powershell
 - NorenRestApiPy==0.0.20
 - requests==2.32.5
 - pandas==2.3.3
@@ -141,3 +141,4 @@ If you encounter any issues:
 ## Disclaimer
 
 This bot is for educational purposes only. Trade at your own risk. Always understand the trading strategy and risk management before deploying any automated trading system.
+
